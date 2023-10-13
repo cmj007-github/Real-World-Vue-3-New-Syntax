@@ -13,21 +13,21 @@
   {
     "id": 5928102,
     "categoty": "animal",
-    "tittle": "Cat adoption",
+    "tittle": "Dog adoption",
     "description": "dsdsdsadsa sadsa",
     "location": "Santiago",
     "date": "January 28, 2022",
     "time": "12:00",
-    "organizer": "Kat"
+    "organizer": "Pedro"
   },
   {
     "id": 5928103,
     "categoty": "animal",
-    "tittle": "Cat adoption",
+    "tittle": "Cow adoption",
     "description": "dsdsdsadsa sadsa",
     "location": "Santiago",
     "date": "January 28, 2022",
     "time": "12:00",
-    "organizer": "Kat"  }
+    "organizer": "Diego"  }
 ]
 }
