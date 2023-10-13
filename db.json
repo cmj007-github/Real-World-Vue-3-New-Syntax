@@ -1,37 +1,33 @@
 {
   "events": [
   {
-    id: 5928101,
-    categoty: "animal",
-    tittle: "Cat adoption",
-    description: "dsdsdsadsa sadsa",
-    location: "Santiago",
-    date: "January 28, 2022",
-    time: "12:00",
-    persAllowed: true,
-    organizer: "Kat"
+    "id": 5928101,
+    "categoty": "animal",
+    "tittle": "Cat adoption",
+    "description": "dsdsdsadsa sadsa",
+    "location": "Santiago",
+    "date": "January 28, 2022",
+    "time": "12:00",
+    "organizer": "Kat"
   },
   {
-    id: 5928102,
-    categoty: "animal",
-    tittle: "Cat adoption",
-    description: "dsdsdsadsa sadsa",
-    location: "Santiago",
-    date: "January 28, 2022",
-    time: "12:00",
-    persAllowed: true,
-    organizer: "Kat"
+    "id": 5928102,
+    "categoty": "animal",
+    "tittle": "Cat adoption",
+    "description": "dsdsdsadsa sadsa",
+    "location": "Santiago",
+    "date": "January 28, 2022",
+    "time": "12:00",
+    "organizer": "Kat"
   },
   {
-    id: 5928101,
-    categoty: "animal",
-    tittle: "Cat adoption",
-    description: "dsdsdsadsa sadsa",
-    location: "Santiago",
-    date: "January 28, 2022",
-    time: "12:00",
-    persAllowed: true,
-    organizer: "Kat"
-  }
+    "id": 5928103,
+    "categoty": "animal",
+    "tittle": "Cat adoption",
+    "description": "dsdsdsadsa sadsa",
+    "location": "Santiago",
+    "date": "January 28, 2022",
+    "time": "12:00",
+    "organizer": "Kat"  }
 ]
 }
